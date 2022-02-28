@@ -20,7 +20,11 @@ Each sessions will be prepared by a member of the journal club. The reading mate
 - Some sort of presentation, exercise or practical demonstration. This could for example be a presentation by some SODAS faculty using the method, or a notebook demonstrating how to use it 
 
 ## Sign up to prepare
-If you want to sign up to prepare a session, simply send me (August) an email, and make a commit with your name and the topic under schedule.
+If you want to sign up to prepare a session do the following:
+- Send me (August) an email
+- Make a commit with your name and the topic under schedule
+- Update the appropriate folder name to month-day-year-topic, with your chosen topic 
+- prepare :)
 
 ## Participation without commitment
 It is possible to join our mailinglist, and attend the meetings that are of most relevance to you. I do not know yet, if it is possible to recieve ECTS or workhours, if you do not participate fully, but I will look into it. 
