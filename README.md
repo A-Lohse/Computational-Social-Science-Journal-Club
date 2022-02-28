@@ -36,18 +36,19 @@ I am currently working with Ingo to figure out the details, but until then we ca
 ## Wishlist for topics:
 You are more than welcome to add to this list at anytime 
 
-- Bayesian statistics
-- Best practice coding, version control (GIT) and latex (overleaf)
-- Causal inference (dif-n-dif & RDD) (interperet regressions)
-- Causal machine learning  
-- Cognitive signals in NLP
-- Dimensionality reduction
-- Embeddings (words etc.)
-- Images as data
-- Machine learning / evaluation of machine learning (SHAP & permutation)
-- Model optimization/saturation -  (in ML/DL/NLP)
-- Network analysis (visualization, inference etc.)
-- Non-inference (thinking outside of inference)
-- Scraping and APIs (and available online trace data)
-- Unsupervised learning (mainly in NLP such as topic models)
-- Visualization (in terms of  Best practice and journal choice)
+List of topics:
+- Bayesian statistics
+- Best practice coding, version control (GIT) and latex (overleaf)
+- Causal inference (dif-n-dif & RDD) (interperet regressions)
+- Causal machine learning  
+- Cognitive signals in NLP
+- Dimensionality reduction
+- Embeddings (words etc.)
+- Images as data
+- Machine learning / evaluation of machine learning (SHAP & permutation)
+- Model optimization/saturation -  (in ML/DL/NLP)
+- Network analysis (visualization, inference etc.)
+- Non-inference (thinking outside of inference)
+- Scraping and APIs (and available online trace data)
+- Unsupervised learning (mainly in NLP such as topic models)
+- Visualization (in terms of  Best practice and journal choice)
