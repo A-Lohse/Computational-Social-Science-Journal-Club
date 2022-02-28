@@ -7,7 +7,7 @@ In the Computational Social Science Journal Club we read and discuss varies meth
 The dates for this semester are:
 - 17th of March:
 - 31rd of March:
-- 21nd of April: 
+- 21nd of April: Malene, something with NLP
 - 12th of May:
 - 2nd of June: 
 
