@@ -1,0 +1,15 @@
+Technical litterature: 
+
+- Images as Data for Social Science Research - An Introduction to Convolutional Neural Nets for Image Classification 
+- - 69 pages, but very good!
+- - Free online: https://www.cambridge.org/core/elements/images-as-data-for-social-science-research/0376EE8A7A21F5B47FC4EC24DF07EFE9
+
+Applied litterature:
+- Photographic home styles in congress: A computer vision approach. (https://arxiv.org/abs/1611.09942)
+
+Expanded reading list:
+- Image as Data: Automated Visual Content Analysis for Political Science (https://arxiv.org/abs/1810.01544)
+- deep learning book (Ian Goodfellow)
+- The effects of facial attractiveness and trustworthiness in online peer-to-peer markets. (https://doi.org/10.1016/j.joep.2018.11.004)
+- Jaeger, B., Todorov, A. T., Evans, A. M., & van Beest, I. (2020). Can we reduce facial biases? Persistent effects of facial trustworthiness on sentencing decisions. (https://doi.org/10.1016/j.jesp.2020.104004)
+

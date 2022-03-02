@@ -1,0 +1,12 @@
+- Introductory jupyter notebook going over:
+- - how to import and work with images as data in python
+- - how to make your own CNN in pytorch for classification (very simple one on the MINST dataset) 
+- - how to finetune an existing CNN, and where to find pretrained CNNs 
+
+- Discussion of the technical aspects (the book) 
+- - anything that does not add up? 
+- - do we understand or agree upon when it makes sense to use CNNs and what CNNs can be used for in social science? 
+
+- Discussions of applied work (the paper) 
+- - What do you think of the paper? 
+- - Can you use this in your own research - and how? 
