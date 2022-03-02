@@ -12,4 +12,4 @@ Expanded reading list:
 - deep learning book (Ian Goodfellow)
 - The effects of facial attractiveness and trustworthiness in online peer-to-peer markets. (https://doi.org/10.1016/j.joep.2018.11.004)
 - Jaeger, B., Todorov, A. T., Evans, A. M., & van Beest, I. (2020). Can we reduce facial biases? Persistent effects of facial trustworthiness on sentencing decisions. (https://doi.org/10.1016/j.jesp.2020.104004)
-
+- Speech Emotion Recognition from Spectrograms with Deep Convolutional Neural Network (https://www.researchgate.net/publication/315638464_Speech_Emotion_Recognition_from_Spectrograms_with_Deep_Convolutional_Neural_Network)
