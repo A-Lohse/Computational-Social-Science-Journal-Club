@@ -5,7 +5,7 @@ Computational Social Science Journal Club for Ph.D students at SODAS in UCPH
 In the Computational Social Science Journal Club we read and discuss varies methodological and applied approaches within Computational Social Science (CSS). We take time to understand the theory behind a CSS approach, and allow ourselves to be inspired by the applied work by others. We meet every 3 weeks for 3 hours, and work with a topic. The Schedule is usually determined by the "After hours drinks" event in outlook, though I have move some dates. An outlook event should be in your calender, please accept or reject based on attendance.  
 
 The dates for this semester are:
-- 17th of March:
+- 17th of March: August - Images as data
 - 31rd of March:
 - 21nd of April: Malene, something with NLP
 - 12th of May:
