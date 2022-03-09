@@ -8,7 +8,7 @@ The dates for this semester are:
 - 17th of March (13-16 small meeting room): August - Images as data
 - 31rd of March (13-16 small meeting room):
 - 21nd of April (13.30-16.30 small meeting room): Malene, something with NLP
-- 12th of May (13-16 small meeting room):
+- 12th of May (13-16 small meeting room):Johanna, Baysian statistics
 - 2nd of June (13.30-16.30 small meeting room): 
 
 
