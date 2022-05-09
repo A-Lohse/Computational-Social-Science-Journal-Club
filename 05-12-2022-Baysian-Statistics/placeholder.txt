@@ -50,7 +50,7 @@ import matplotlib.pyplot as plt
 
 - [Evidence of bias in the Eurovision song contest: modelling the votes using Bayesian hierarchical models](https://www.tandfonline.com/doi/pdf/10.1080/02664763.2014.909792?needAccess=true)
 - [Differential impact of government lockdown policies on reducing air pollution levels and related mortality in Europe](https://www.nature.com/articles/s41598-021-04277-6)
-- [Spatial survival modelling of business re-opening after Katrina: Survival modelling compared to spatial probit modelling of re-opening within 3, 6 or 12 months](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20967158)pTh53!Mafo57
+- [Spatial survival modelling of business re-opening after Katrina: Survival modelling compared to spatial probit modelling of re-opening within 3, 6 or 12 months](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20967158)
 
 
 
