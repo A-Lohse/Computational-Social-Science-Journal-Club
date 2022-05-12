@@ -16,7 +16,8 @@ So I installed the Beta Version of PyMC4 which works nicely.
 cd pymc
 conda env create -f ./conda-envs/environment-dev-py39.yml
 conda activate pymc-dev-py39
-pip install .``
+pip install .
+```
 
 You can also find the official installation guide here:
 https://github.com/pymc-devs/pymc/wiki/Installation-Guide-(MacOS)
